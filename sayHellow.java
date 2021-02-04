@@ -1,6 +1,6 @@
 import java.io;
 
-public class t {
+public class sayHello {
 
 
 public void main(Strin[] Arg){
