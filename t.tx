@@ -1,1 +1,9 @@
-hello world
+import java.io;
+
+public class t {
+
+
+public void main(Strin[] Arg){
+  SYstem.out.println("hello world");
+ }
+}
